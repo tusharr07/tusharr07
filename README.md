@@ -12,7 +12,7 @@ I'm passionate about extracting insights from data and using them to solve real-
 ## 🔧 Technologies & Tools   
 - SQL
 - TABLEAU
-- PYTHON LIBRARIES (NUMPY, PANDAS, MATPLOTLIB, SEABORN)
+- PYTHON LIBRARIES (Numpy, Pandas, Matplotlib, Seaborn)
 - GOOGLE BIG QUERY, MySQL
 - ADVANCED EXCEL
 
