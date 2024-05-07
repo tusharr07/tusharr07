@@ -13,7 +13,7 @@ I'm passionate about extracting insights from data and using them to solve real-
 - SQL
 - TABLEAU
 - PYTHON LIBRARIES (Numpy, Pandas, Matplotlib, Seaborn)
-- GOOGLE BIG QUERY, MySQL
+- GOOGLE BIG QUERY, MySQL, Google Colab
 - ADVANCED EXCEL
 
 📫 How to reach me:
