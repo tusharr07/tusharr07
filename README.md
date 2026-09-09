@@ -13,9 +13,9 @@ I'm passionate about extracting insights from data and using them to solve real-
 - SQL
 - GOOGLE APPS SCRIPT
 - TABLEAU
-- Looker Studio
+- Data Studio
 - PYTHON LIBRARIES (Numpy, Pandas, Matplotlib, Seaborn)
-- GOOGLE BIG QUERY, MySQL, Google Colab
+- GOOGLE BIG QUERY, MySQL, Google Colab, Dynamics 365 Business Central
 - ADVANCED EXCEL, GOOGLE SHEETS
 
 📫 How to reach me:
