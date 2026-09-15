@@ -17,7 +17,8 @@ I'm passionate about extracting insights from data and using them to solve real-
 - PYTHON LIBRARIES (Numpy, Pandas, Matplotlib, Seaborn)
 - GOOGLE BIG QUERY, MySQL, Google Colab, Dynamics 365 Business Central
 - ADVANCED EXCEL, GOOGLE SHEETS
-
+- APPS SCRIPT
+  
 📫 How to reach me:
 
 https://www.linkedin.com/in/tusharrana07/
